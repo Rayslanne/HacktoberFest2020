@@ -86,9 +86,13 @@ Name: [Vatsal Narwal](https://github.com/VatsalNarwal)<br/>
 Place: India<br/>
 </br>
 Name: [Satya Srikanth Ankam](https://github.com/mindfreakersatya)<br/>
-Place: India<br/>
+Place: São Paulo <br/>
 About: Hacktoberfest<br/>
 </br>
+Name: [Rayslanne](https://github.com/Rayslanne)
+Place: city you belong to
+About: Just a normal teenage <br/>
+<br/>
 Name: [Arpit Verma](https://github.com/arpit-jpg)<br/>
 Place: India<br/>
 <br/>
